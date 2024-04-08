@@ -1,0 +1,14 @@
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\bin\Debug\net8.0\Task1.exe
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\bin\Debug\net8.0\Task1.dll
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\bin\Debug\net8.0\Task1.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.dll
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования (лекции)\HW7\Task1\obj\Debug\net8.0\ref\Task1.dll
